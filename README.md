@@ -46,18 +46,14 @@ I am a student at **BBZBL**, where I am learning a variety of programming langua
 
 ## 💡 Projects and Contributions
 
-- **Project 1**: Description of project 1 with a link to the repository
-- **Project 2**: Description of project 2 with a link to the repository
-- **Project 3**: Description of project 3 with a link to the repository
+- **Project 1**: Scrumlearning Project from Modul
 
 ---
 
 ## 📫 Connect with Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
-- **Twitter**: [Your Twitter](https://twitter.com/your-profile)
-
+- **Email**: [andrej.lauper@bbzbl-it.ch](mailto:andrej.lauper@bbzbl-it.ch)
+- **Phone**: [Andrej Lauper](phoneto:0754162614)
 ---
 
 ![GitHub Footer](https://your-image-link-here.com)
