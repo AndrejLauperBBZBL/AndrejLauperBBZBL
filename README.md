@@ -31,7 +31,7 @@ I am a student at **BBZBL**, where I am learning a variety of programming langua
 
 ## 📊 GitHub Stats
 
-![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrejLauperBBZBL&show_icons=true&theme=radical)
 
 ---
 
