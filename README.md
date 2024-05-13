@@ -53,7 +53,7 @@ I am a student at **BBZBL**, where I am learning a variety of programming langua
 ## 📫 Connect with Me
 
 - **Email**: [andrej.lauper@bbzbl-it.ch](mailto:andrej.lauper@bbzbl-it.ch)
-- **Phone**: [Andrej Lauper](phoneto:0754162614)
+- **Phone**: [+41 75 416 26 14]
 ---
 
 ![GitHub Footer](https://your-image-link-here.com)
